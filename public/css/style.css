@@ -18,3 +18,9 @@
     border-radius: 0;
     margin-bottom: -1px;
 }
+
+/* Di dalam file styles.css */
+.hero-area {
+    background-image: url('../img/bacground_home.jpg');
+}
+
